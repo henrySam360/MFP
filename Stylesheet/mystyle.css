@@ -1,0 +1,14 @@
+*{background-color:dodgerblue}
+h2,p{
+   text-align: center;
+    color: white;
+    
+}
+h1,h4{
+  color:black;
+  text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
